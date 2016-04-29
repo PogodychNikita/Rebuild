@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: a64e5a59f4cddc84d8af607ceb23d145
+timeCreated: 1461445450
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PoliceStation_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PoliceStation_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 341
+        width: 661
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156.5, y: -134}
+        - {x: 313.5, y: -56}
+        - {x: 325.5, y: -34}
+        - {x: 330.5, y: -23}
+        - {x: 330.5, y: -18}
+        - {x: 329.5, y: -17}
+        - {x: 326.5, y: -18}
+        - {x: 293.5, y: -1}
+        - {x: 293.5, y: 42}
+        - {x: 291.5, y: 45}
+        - {x: 277.5, y: 54}
+        - {x: 239.5, y: 77}
+        - {x: 235.5, y: 79}
+        - {x: 235.5, y: 89}
+        - {x: 234.5, y: 102}
+        - {x: 232.5, y: 129}
+        - {x: 231.5, y: 131}
+        - {x: 169.5, y: 159}
+        - {x: 147.5, y: 169}
+        - {x: 123.5, y: 180}
+        - {x: 110.5, y: 186}
+        - {x: 99.5, y: 191}
+        - {x: 86.5, y: 197}
+        - {x: 64.5, y: 207}
+        - {x: 51.5, y: 213}
+        - {x: 31.5, y: 222}
+        - {x: 22.5, y: 222}
+        - {x: -7.5, y: 202}
+        - {x: -33.5, y: 184}
+        - {x: -69.5, y: 159}
+        - {x: -79.5, y: 152}
+        - {x: -93.5, y: 142}
+        - {x: -95.5, y: 136}
+        - {x: -100.5, y: 128}
+        - {x: -116.5, y: 120}
+        - {x: -136.5, y: 109}
+        - {x: -143.5, y: 104}
+        - {x: -147.5, y: 80}
+        - {x: -152.5, y: 69}
+        - {x: -202.5, y: 39}
+        - {x: -209.5, y: 35}
+        - {x: -289.5, y: -13}
+        - {x: -296.5, y: -17}
+        - {x: -306.5, y: -23}
+        - {x: -330.5, y: -38}
+        - {x: -330.5, y: -44}
+        - {x: -329.5, y: -45}
+        - {x: -299.5, y: -63}
+        - {x: -40.5, y: -217}
+        - {x: -33.5, y: -221}
+        - {x: -30.5, y: -222}
+        - {x: -21.5, y: -222}
+        - {x: 61.5, y: -180}
+        - {x: 63.5, y: -180}
+        - {x: 154.5, y: -134}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

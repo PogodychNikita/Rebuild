@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 3c3fd12c6c8d1244fb3f490347a43a31
+timeCreated: 1461445447
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Parking_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Parking_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 329
+        width: 708
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: -105}
+        - {x: 163, y: -100}
+        - {x: 200, y: -82}
+        - {x: 261, y: -51}
+        - {x: 328, y: -18}
+        - {x: 345, y: 0}
+        - {x: 345, y: 10}
+        - {x: 340, y: 14}
+        - {x: 296, y: 44}
+        - {x: 279, y: 54}
+        - {x: 295, y: 150}
+        - {x: 293, y: 152}
+        - {x: 246, y: 152}
+        - {x: 166, y: 151}
+        - {x: 163, y: 150}
+        - {x: 165, y: 129}
+        - {x: 171, y: 103}
+        - {x: 152, y: 111}
+        - {x: 121, y: 122}
+        - {x: 109, y: 132}
+        - {x: 79, y: 154}
+        - {x: 66, y: 166}
+        - {x: 41, y: 181}
+        - {x: 35, y: 184}
+        - {x: -16, y: 184}
+        - {x: -20, y: 182}
+        - {x: -110, y: 131}
+        - {x: -136, y: 109}
+        - {x: -154, y: 99}
+        - {x: -175, y: 85}
+        - {x: -198, y: 74}
+        - {x: -203, y: 69}
+        - {x: -228, y: 60}
+        - {x: -237, y: 52}
+        - {x: -252, y: 47}
+        - {x: -261, y: 39}
+        - {x: -293, y: 25}
+        - {x: -320, y: 13}
+        - {x: -354, y: -7}
+        - {x: -354, y: -15}
+        - {x: -305, y: -40}
+        - {x: -240, y: -73}
+        - {x: -202, y: -91}
+        - {x: -169, y: -104}
+        - {x: -148, y: -116}
+        - {x: -132, y: -124}
+        - {x: -113, y: -132}
+        - {x: -92, y: -143}
+        - {x: -62, y: -163}
+        - {x: -20, y: -184}
+        - {x: -2, y: -184}
+        - {x: 23, y: -172}
+        - {x: 109, y: -128}
+        - {x: 128, y: -116}
+      - - {x: 350, y: 2}
+        - {x: 349, y: -2}
+        - {x: 351, y: -4}
+        - {x: 354, y: -3}
+        - {x: 354, y: 2}
+        - {x: 353, y: 3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

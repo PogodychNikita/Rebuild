@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 7007dd0c5cf170d4c89b7d3a832210fb
+timeCreated: 1461445341
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Graveyard_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Graveyard_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 296
+        width: 668
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 334, y: -25.5}
+        - {x: 334, y: -19.5}
+        - {x: 325, y: -10.5}
+        - {x: 205, y: 90.5}
+        - {x: 195, y: 98.5}
+        - {x: 214, y: 116.5}
+        - {x: 215, y: 125.5}
+        - {x: 210, y: 152.5}
+        - {x: 194, y: 169.5}
+        - {x: 180, y: 184.5}
+        - {x: 151, y: 166.5}
+        - {x: 142, y: 158.5}
+        - {x: 139, y: 153.5}
+        - {x: 137, y: 136.5}
+        - {x: 95, y: 154.5}
+        - {x: 70, y: 191.5}
+        - {x: 63, y: 192.5}
+        - {x: 44, y: 193.5}
+        - {x: 37, y: 205.5}
+        - {x: 30, y: 216.5}
+        - {x: 18, y: 216.5}
+        - {x: -2, y: 201.5}
+        - {x: 4, y: 189.5}
+        - {x: -3, y: 170.5}
+        - {x: -22, y: 162.5}
+        - {x: -33, y: 173.5}
+        - {x: -32, y: 178.5}
+        - {x: -49, y: 202.5}
+        - {x: -69, y: 200.5}
+        - {x: -71, y: 198.5}
+        - {x: -70, y: 182.5}
+        - {x: -75, y: 172.5}
+        - {x: -77, y: 159.5}
+        - {x: -65, y: 149.5}
+        - {x: -116, y: 115.5}
+        - {x: -129, y: 108.5}
+        - {x: -139, y: 118.5}
+        - {x: -151, y: 125.5}
+        - {x: -167, y: 129.5}
+        - {x: -176, y: 121.5}
+        - {x: -181, y: 110.5}
+        - {x: -191, y: 110.5}
+        - {x: -201, y: 107.5}
+        - {x: -212, y: 96.5}
+        - {x: -211, y: 78.5}
+        - {x: -218, y: 49.5}
+        - {x: -214, y: 38.5}
+        - {x: -222, y: 31.5}
+        - {x: -326, y: -15.5}
+        - {x: -334, y: -21.5}
+        - {x: -334, y: -57.5}
+        - {x: -301, y: -75.5}
+        - {x: -244, y: -103.5}
+        - {x: -130, y: -161.5}
+        - {x: -21, y: -216.5}
+        - {x: -12, y: -216.5}
+        - {x: -6, y: -211.5}
+        - {x: 73, y: -168.5}
+        - {x: 317, y: -35.5}
+      - - {x: -221, y: 85.5}
+        - {x: -224, y: 83.5}
+        - {x: -224, y: 74.5}
+        - {x: -221, y: 73.5}
+        - {x: -218, y: 73.5}
+        - {x: -217, y: 74.5}
+        - {x: -217, y: 82.5}
+        - {x: -218, y: 85.5}
+      - - {x: -12, y: 192.5}
+        - {x: -9, y: 193.5}
+        - {x: -9, y: 196.5}
+        - {x: -12, y: 197.5}
+        - {x: -14, y: 195.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
